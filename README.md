@@ -38,7 +38,7 @@ ExpenseWise is a modern expense tracking application that helps users manage the
 1. Clone the repository:
 
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
+   git clone https://github.com/sandhya-it/SWYNEX-Interactive-Web-Application.git
    ```
 
 2. Navigate to the project directory:
