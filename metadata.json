@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseWise – Smart Expense Tracker",
+  "description": "A modern personal expense tracker to record income and expenses, manage category budgets, monitor spending habits, and visualize finances with interactive charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
