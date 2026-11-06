@@ -65,13 +65,13 @@ ExpenseWise is a modern expense tracking application that helps users manage the
 
 ```text
 ExpenseWise/
-├── src/             # Application source code
-├── index.html       # Main HTML entry point
-├── package.json     # Project dependencies and scripts
-├── tsconfig.json    # TypeScript configuration
-├── vite.config.ts   # Vite configuration
-├── .gitignore       # Git ignored files
-└── README.md        # Project documentation
+├── src/      
+├── index.html       
+├── package.json     
+├── tsconfig.json    
+├── vite.config.ts  
+├── .gitignore       
+└── README.md       
 ```
 
 ## 🎯 Project Objectives
